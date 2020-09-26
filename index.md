@@ -19,3 +19,7 @@
 ## home.lan
 
 [home.lan](https://bradbeattie.github.io/home.lan/)
+
+# Contact
+
+[bradbeattie@gmail.com](mailto:bradbeattie@gmail.com)
